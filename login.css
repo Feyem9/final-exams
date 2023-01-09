@@ -6,13 +6,21 @@ fieldset{
     align-items: center;
     position: relative;
     
+    line-height: 150px;
 }
 h1{
     color: orangered;
 }
 input{
-    color: orangered;
+    color: white;
 }
 table{
     margin: 50px;
+    line-height: 10px;
+}
+td{
+    line-height: 10px;
+}
+form{
+    line-height: 10px;
 }
