@@ -1,0 +1,18 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    background-color: teal;
+}
+fieldset{
+    align-items: center;
+    position: relative;
+    
+}
+h1{
+    color: orangered;
+}
+input{
+    color: orangered;
+}
+table{
+    margin: 50px;
+}
